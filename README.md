@@ -6,7 +6,7 @@
 -   localStorage
 -   JSON.parse
 
-### Ссылка на GitHub Pages website:
+### Ссылка на GitHub Pages website: https://ruslanklukvin.github.io/js-cp-diploma-edited/
 
 ### Описание файлов JS
 
