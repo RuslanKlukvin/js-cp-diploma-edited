@@ -1,3 +1,22 @@
+### Используемые технологии:
+
+-   JavaScript
+-   CSS
+-   HTML
+-   localStorage
+-   JSON.parse
+
+### Ссылка на GitHub Pages website:
+
+### Описание файлов JS
+
+- [createRequest](./md/createRequest.md)
+- [hall](./md/hall.md)
+- [index](./md/index.md)
+- [payment](./md/payment.md)
+- [ticket](./md/ticket.md)
+
+
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
 ## Создание «информационной системы для предварительного бронирования билетов».

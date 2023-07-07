@@ -1,6 +1,6 @@
   Используемые технологии:
 
-JavaScript
+JavaScript,
 HTML
  
    Описание кода:

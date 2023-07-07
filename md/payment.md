@@ -1,7 +1,7 @@
   Используемые технологии:
 
-JavaScript
-HTML
+JavaScript,
+HTML,
 localStorage
  
    Описание кода:

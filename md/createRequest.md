@@ -1,8 +1,8 @@
   Используемые технологии:
 
-JavaScript
-XMLHttpRequest
-HTML
+JavaScript,
+XMLHttpRequest,
+HTML,
 JSON.parse
  
    Описание кода:

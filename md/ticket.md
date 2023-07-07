@@ -1,8 +1,8 @@
   Используемые технологии:
 
-JavaScript
-HTML
-localStorage
+JavaScript,
+HTML,
+localStorage,
 Qrcode-generator
  
    Описание кода:

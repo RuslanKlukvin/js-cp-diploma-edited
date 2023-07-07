@@ -1,7 +1,7 @@
   Используемые технологии:
 
-JavaScript
-localStorage
+JavaScript,
+localStorage,
 JSON.parse
  
    Описание кода:
